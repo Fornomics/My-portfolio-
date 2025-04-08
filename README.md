@@ -61,7 +61,7 @@ F1-Score (Class 1)	0.43	      0.56	         0.41
 3. Track customer repayment behaviors to detect early warning signs.
 4. Re-train models regularly using updated customer data to improve prediction accuracy.
 
-###🙌Acknowledgements
+### 🙌Acknowledgements
 Special thanks to Dataleum for curating and sharing the dataset via Kaggle.
 
 This project is a part of a machine learning initiative aimed at enhancing risk management for a financial institution.
